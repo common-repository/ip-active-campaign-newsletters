@@ -1,0 +1,12 @@
+/*
+admin.css
+Version: 2.1
+*/
+
+/* Hide sections in Omail */
+.post-type-omail #postdivrich {display:none;}
+.post-type-omail #wc-memberships-post-memberships-data {display:none;}
+.post-type-omail #astra_settings_meta_box {display:none;}
+.post-type-omail #slugdiv {display:none;}
+.post-type-omail #td_post_theme_settings_metabox {display:none !important;}
+.post-type-omail #wc-memberships-post-memberships-data {display:none !important;}
